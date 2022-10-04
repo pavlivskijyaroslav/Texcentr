@@ -1,1 +1,1 @@
-[Texcentr](https://pavlivskijyaroslav.github.io/Texcentr/)
+[Texcentr](https://pavlivskijyaroslav.github.io/Texcentr/index.html)
